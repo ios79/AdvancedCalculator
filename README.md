@@ -16,3 +16,9 @@ A GUI Calculator with advanced mathematical functions, dark mode toggle, and bra
    cd AdvancedCalculator
    python gui_calculator.py
 ![Screenshot 2025-02-08 191658](https://github.com/user-attachments/assets/5c4f4daf-5b66-4fd6-acce-eadf08ec4873)
+🛠 Future Features:
+ History Tracking 📜
+ Keyboard Support ⌨️
+ Graphing Functionality 📈
+👨‍💻 Created by: Ioseb Vardoshvili
+🌟 If you like this project, give it a star ⭐!
